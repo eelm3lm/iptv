@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1, SPORTS HD1
+http://163.172.118.212:80/live.ts?channelId=178&deviceMac=00:1A:79:BE:2F:A0&uid=2553
+#EXTINF:-1, SPORTS HD2
+http://163.172.118.212:80/live.ts?channelId=179&deviceMac=00:1A:79:BE:2F:A0&uid=2553
+#EXTINF:-1, SPORTS HD3
+http://163.172.118.212:80/live.ts?channelId=180&deviceMac=00:1A:79:BE:2F:A0&uid=2553
+#EXTINF:-1, SPORTS HD4
+http://163.172.118.212:80/live.ts?channelId=181&deviceMac=00:1A:79:BE:2F:A0&uid=2553
+#EXTINF:-1, SPORTS HD5
+http://163.172.118.212:80/live.ts?channelId=182&deviceMac=00:1A:79:BE:2F:A0&uid=2553
+#EXTINF:-1, SPORTS HD6
+http://163.172.118.212:80/live.ts?channelId=183&deviceMac=00:1A:79:BE:2F:A0&uid=2553
+#EXTINF:-1, SPORTS HD7
+http://163.172.118.212:80/live.ts?channelId=184&deviceMac=00:1A:79:BE:2F:A0&uid=2553
+#EXTINF:-1, SPORTS HD8
+http://163.172.118.212:80/live.ts?channelId=185&deviceMac=00:1A:79:BE:2F:A0&uid=2553
+#EXTINF:-1, SPORTS HD9
+http://163.172.118.212:80/live.ts?channelId=186&deviceMac=00:1A:79:BE:2F:A0&uid=2553
+#EXTINF:-1, SPORTS HD10
+http://163.172.118.212:80/live.ts?channelId=187&deviceMac=00:1A:79:BE:2F:A0&uid=2553
+#EXTINF:-1, SPORTS HD11 ENG
+http://163.172.118.212:80/live.ts?channelId=188&deviceMac=00:1A:79:BE:2F:A0&uid=2553
+#EXTINF:-1, SPORTS HD12 ENG
+http://163.172.118.212:80/live.ts?channelId=189&deviceMac=00:1A:79:BE:2F:A0&uid=2553

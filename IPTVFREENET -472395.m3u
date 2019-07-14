@@ -1,0 +1,297 @@
+#EXTM3U
+#EXTINF:0,*** SERVER DMTN-IPTV ***
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/11499
+#EXTINF:0,beIN SPORTS NEWS FHD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/104712
+#EXTINF:0,beIN SPORTS MAX 1 FHD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107301
+#EXTINF:0,beIN SPORTS MAX 2 FHD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107300
+#EXTINF:0,beIN SPORTS MAX 3 FHD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107295
+#EXTINF:0,beIN SPORTS MAX 4 FHD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107294
+#EXTINF:0,beIN SPORTS MAX 1 HD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107293
+#EXTINF:0,beIN SPORTS MAX 2 HD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107292
+#EXTINF:0,beIN SPORTS MAX 3 HD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107291
+#EXTINF:0,beIN SPORTS MAX 4 HD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107290
+#EXTINF:0,beIN SPORTS HD 1 MAX *
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107169
+#EXTINF:0,beIN SPORTS HD 2 MAX *
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107168
+#EXTINF:0,beIN SPORTS HD 3 MAX *
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107167
+#EXTINF:0,beIN SPORTS HD 4 MAX *
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107166
+#EXTINF:0,beIN SPORTS MAX 1 HD (HEVC)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107297
+#EXTINF:0,beIN SPORTS MAX 2 HD (HEVC)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107296
+#EXTINF:0,beIN SPORTS MAX 3 HD (HEVC)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107299
+#EXTINF:0,beIN SPORTS MAX 4 HD (HEVC)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107298
+#EXTINF:0,beIN SPORTS MAX 1 FHD (Local)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/109391
+#EXTINF:0,beIN SPORTS MAX 2 FHD (Local)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/109390
+#EXTINF:0,beIN SPORTS MAX 3 FHD (Local)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/109393
+#EXTINF:0,beIN SPORTS MAX 4 FHD (Local)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/109392
+#EXTINF:0,beIN SPORTS FHD 1 MAX
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107181
+#EXTINF:0,beIN SPORTS FHD 2 MAX
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107180
+#EXTINF:0,beIN SPORTS FHD 3 MAX
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107179
+#EXTINF:0,beIN SPORTS FHD 4 MAX
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107178
+#EXTINF:0,beIN SPORTS HD 1 MAX HEVC
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107177
+#EXTINF:0,beIN SPORTS HD 2 MAX HEVC
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107176
+#EXTINF:0,beIN SPORTS HD 3 MAX HEVC
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107175
+#EXTINF:0,beIN SPORTS HD 4 MAX HEVC
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107174
+#EXTINF:0,beIN SPORTS 1 MAX (720p)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107173
+#EXTINF:0,beIN SPORTS 1 MAX *
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107289
+#EXTINF:0,beIN SPORTS 2 MAX (720p)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107172
+#EXTINF:0,beIN SPORTS 2 MAX *
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107288
+#EXTINF:0,beIN SPORTS 3 MAX (720p)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107171
+#EXTINF:0,beIN SPORTS 3 MAX *
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107287
+#EXTINF:0,beIN SPORTS 4 MAX (720p)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107170
+#EXTINF:0,beIN SPORTS 4 MAX *
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/107286
+#EXTINF:0,beIN SPORTS GLOBAL HD (1080i)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78372
+#EXTINF:0,beIN SPORTS GLOBAL HD*
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78371
+#EXTINF:0,beIN SPORTS 1 HD (1080i)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78402
+#EXTINF:0,beIN SPORTS 2 HD (1080i)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78399
+#EXTINF:0,beIN SPORTS 3 HD (1080i)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78396
+#EXTINF:0,beIN SPORTS 4 HD (1080i)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78393
+#EXTINF:0,beIN SPORTS 5 HD (1080i)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78390
+#EXTINF:0,beIN SPORTS 6 HD (1080i)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78387
+#EXTINF:0,beIN SPORTS 7 HD (1080i)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78384
+#EXTINF:0,beIN SPORTS 8 HD (1080i)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78381
+#EXTINF:0,beIN SPORTS 9 HD (1080i)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78378
+#EXTINF:0,beIN SPORTS 10 HD (1080i)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78375
+#EXTINF:0,beIN SPORTS 1 HD*
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78401
+#EXTINF:0,beIN SPORTS 2 HD*
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78398
+#EXTINF:0,beIN SPORTS 3 HD*
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78395
+#EXTINF:0,beIN SPORTS 4 HD*
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78392
+#EXTINF:0,beIN SPORTS 5 HD*
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78389
+#EXTINF:0,beIN SPORTS 6 HD*
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78386
+#EXTINF:0,beIN SPORTS 7 HD*
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78383
+#EXTINF:0,beIN SPORTS 8 HD*
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78380
+#EXTINF:0,beIN SPORTS 9 HD*
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78377
+#EXTINF:0,beIN SPORTS 10 HD*
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78374
+#EXTINF:0,beIN SPORTS 1 SD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78400
+#EXTINF:0,beIN SPORTS 2 SD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78397
+#EXTINF:0,beIN SPORTS 3 SD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78394
+#EXTINF:0,beIN SPORTS 4 SD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78391
+#EXTINF:0,beIN SPORTS 5 SD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78388
+#EXTINF:0,beIN SPORTS 6 SD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78385
+#EXTINF:0,beIN SPORTS 7 SD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78382
+#EXTINF:0,beIN SPORTS 8 SD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78379
+#EXTINF:0,beIN SPORTS 9 SD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78376
+#EXTINF:0,beIN SPORTS 10 SD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/78373
+#EXTINF:0,beIN SPORTS FHD 1 (hevc)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/47000
+#EXTINF:0,beIN SPORTS FHD 2 (hevc)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/46999
+#EXTINF:0,beIN SPORTS FHD 3 (hevc)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/46998
+#EXTINF:0,beIN SPORTS FHD 4 (hevc)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/46997
+#EXTINF:0,beIN SPORTS FHD 5 (hevc)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/46996
+#EXTINF:0,beIN SPORTS FHD 6 (hevc)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/46995
+#EXTINF:0,beIN SPORTS FHD 7 (hevc)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/46994
+#EXTINF:0,beIN SPORTS FHD 8 (hevc)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/46993
+#EXTINF:0,beIN SPORTS FHD 9 (hevc)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/46992
+#EXTINF:0,beIN SPORTS FHD 10 (hevc)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/46991
+#EXTINF:0,beIN SPORTS HD 1 (Local HEVC)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/65950
+#EXTINF:0,beIN SPORTS HD 2 (Local HEVC)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/65949
+#EXTINF:0,beIN SPORTS HD 3 (Local HEVC)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/105169
+#EXTINF:0,beIN SPORTS HD 4 (Local HEVC)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/105168
+#EXTINF:0,beIN SPORTS HD 5 (Local HEVC)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/105385
+#EXTINF:0,beIN SPORTS HD 1 (Local)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/105170
+#EXTINF:0,beIN SPORTS HD 2 (Local)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/105171
+#EXTINF:0,beIN SPORTS HD 3 (Local)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/66256
+#EXTINF:0,beIN SPORTS HD 4
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/66255
+#EXTINF:0,beIN SPORTS HD 5
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/66254
+#EXTINF:0,beIN SPORTS HD 6
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/66253
+#EXTINF:0,beIN SPORTS HD 7
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/66252
+#EXTINF:0,beIN SPORTS HD 8
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/66251
+#EXTINF:0,beIN SPORTS HD 9
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/66250
+#EXTINF:0,beIN SPORTS HD 10
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/66249
+#EXTINF:0,beIN SPORTS HD 11
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/66248
+#EXTINF:0,beIN SPORTS HD 12
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/66247
+#EXTINF:0,beIN SPORTS News HD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/23691
+#EXTINF:0,beIN SPORTS GLOBAL HD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/57693
+#EXTINF:0,beIN SPORTS 1 HD (Audio EN)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/23646
+#EXTINF:0,beIN SPORTS 2 HD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/75296
+#EXTINF:0,beIN SPORTS 3 HD (audio EN)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/23644
+#EXTINF:0,beIN SPORTS 4 HD (audio EN)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/23643
+#EXTINF:0,beIN SPORTS 5 HD (audio EN)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/23642
+#EXTINF:0,beIN SPORTS 6 HD (audio EN)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/23641
+#EXTINF:0,beIN SPORTS 7 HD (audio 2)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/23640
+#EXTINF:0,beIN SPORTS 8 HD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/23639
+#EXTINF:0,beIN SPORTS 9 HD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/23638
+#EXTINF:0,beIN SPORTS 10 HD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/23637
+#EXTINF:0,beIN SPORTS 11 HD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/23623
+#EXTINF:0,beIN SPORTS 12 HD
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/23620
+#EXTINF:0,beIN SPORTS HD 1 FR (1080P)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/46990
+#EXTINF:0,beIN SPORTS HD 2 FR (1080P)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/46989
+#EXTINF:0,beIN SPORTS HD 3 FR (1080P)
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/46988
+#EXTINF:0,91673
+http://dmtn-tv.com:8080/pein22/rN6mTd578d/91673
+#EXTINF:0,FOX SPORT (CLEVELAND)
+http://cdn.miip.tv:80/Damian/123456/396
+#EXTINF:0,FOX SPORT (SOUTH)
+http://cdn.miip.tv:80/Damian/123456/3879
+#EXTINF:0,FOX SPORT (SOUTHEAST)
+http://cdn.miip.tv:80/Damian/123456/3878
+#EXTINF:0,FOX SPORT (WEST)
+http://cdn.miip.tv:80/Damian/123456/302
+#EXTINF:0,FOX SPORT 2
+http://cdn.miip.tv:80/Damian/123456/232
+#EXTINF:0,FOX SPORT ALTERNO
+http://cdn.miip.tv:80/Damian/123456/12310
+#EXTINF:0,FOX SPORT ALTERNO 2
+http://cdn.miip.tv:80/Damian/123456/12311
+#EXTINF:0,FOX SPORT ARIZONA
+http://cdn.miip.tv:80/Damian/123456/2339
+#EXTINF:0,FOX SPORT MIDWEST ALT
+http://cdn.miip.tv:80/Damian/123456/4237
+#EXTINF:0,FOX SPORT Midwest(SAN LUIS)
+http://cdn.miip.tv:80/Damian/123456/336
+#EXTINF:0,FOX SPORT NORTH(MINESOTA)
+http://cdn.miip.tv:80/Damian/123456/514
+#EXTINF:0,FOX SPORT NORTHWEST
+http://cdn.miip.tv:80/Damian/123456/4229
+#EXTINF:0,Fox Sport San Diego
+http://cdn.miip.tv:80/Damian/123456/1671
+#EXTINF:0,FOX SPORT SOUTHWEST (TEXAS)
+http://cdn.miip.tv:80/Damian/123456/4771
+#EXTINF:0,FOX SPORT SOUTHWEST +
+http://cdn.miip.tv:80/Damian/123456/4230
+#EXTINF:0,FOX SPORT SUN SPORT (MIAMI)
+http://cdn.miip.tv:80/Damian/123456/4231
+#EXTINF:0,fox sport time ohio plus
+http://cdn.miip.tv:80/Damian/123456/4769
+#EXTINF:0,Fox Sports 1 Sur HD
+http://cdn.miip.tv:80/Damian/123456/3800
+#EXTINF:0,Fox Sports 2 Sur HD
+http://cdn.miip.tv:80/Damian/123456/3801
+#EXTINF:0,Fox Sports 3 Sur HD
+http://cdn.miip.tv:80/Damian/123456/3802
+#EXTINF:0,Fox Sports Brasil HD
+http://cdn.miip.tv:80/Damian/123456/3799
+#EXTINF:0,Fox Sports Detroit
+http://cdn.miip.tv:80/Damian/123456/3871
+#EXTINF:0,FOX SPORTS FLORIDA
+http://cdn.miip.tv:80/Damian/123456/305
+#EXTINF:0,Fox Sports MILWAUKEE
+http://cdn.miip.tv:80/Damian/123456/3872
+#EXTINF:0,Fox Sports Premium HD (Argentina)
+http://cdn.miip.tv:80/Damian/123456/3803
+#EXTINF:0,FOX SPORTS1 HD LAT
+http://cdn.miip.tv:80/Damian/123456/464
+#EXTINF:0,FOX SPORTS2 HD LAT
+http://cdn.miip.tv:80/Damian/123456/432
+#EXTINF:0,FOX SPORTS3 HD LAT
+http://cdn.miip.tv:80/Damian/123456/431
+#EXTINF:0,RU | Digi Sports 1 HD
+http://cdn.miip.tv:80/Damian/123456/4263
+#EXTINF:0,RU | Digi Sports 2 HD
+http://cdn.miip.tv:80/Damian/123456/4282
+#EXTINF:0,RU | Digi Sports 3 HD
+http://cdn.miip.tv:80/Damian/123456/4283
+#EXTINF:0,RU | Digi Sports 4 HD
+http://cdn.miip.tv:80/Damian/123456/4284
+#EXTINF:0,WWE
+http://cdn.miip.tv:80/Damian/123456/377
